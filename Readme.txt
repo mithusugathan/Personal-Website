@@ -1,3 +1,9 @@
+Link to personal website:
+https://mithusugathan.github.io/Personal-Website/
+
+
+
+
 Thanks for downloading this template!
 
 Template Name: DevFolio
